@@ -1,0 +1,11 @@
+Financial Analysis:
+---------------------------------------
+Total: 22564198
+Average Change: 
+Greateest Increase in Profits: Date              Mar-13
+Profit/Losses    1141840
+Name: 0, dtype: object)
+Greatest Decrease in Profits: Date               Feb-16
+Profit/Losses    -1149123
+Name: 1, dtype: object
+---------------------------------------
